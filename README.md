@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Ali</h1>
-<h2>Welcome to my tech corner.</h2>
+<h2 align="center">Hey, I'm Ali Hassan Warsi</h2>
 
 </div>
 
