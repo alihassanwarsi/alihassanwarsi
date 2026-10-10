@@ -1,109 +1,131 @@
 <div align="center">
 
-<h2 align="center">Hey, I'm Ali Hassan Warsi</h2>
+<p>
+  <img src="./assets/header/title.svg" width="260" height="52" align="middle" alt="Hey, I'm Ali">
+  <img src="./assets/gifs/greet.gif" width="40" height="40" align="middle" alt="Waving hand">
+</p>
+
+<p><strong>A little curiosity. A lot of Python.</strong></p>
 
 </div>
 
 ## About Me
 
-I'm an AI undergrad and **Microsoft Student Ambassador** who likes building things that actually work.
+<img align="right" src="./assets/gifs/hollow_knight.gif" width="100" alt="Hollow Knight pixel animation">
 
-I focus on **intelligent agentic and RAG systems**, backed by secure, reliable APIs built with **Python and FastAPI**.
+I'm an AI undergrad and **Microsoft Student Ambassador** who enjoys turning ideas into working projects.
 
-I also enjoy helping other students explore tech and AI. This is where I share the projects I'm proud of and the ones that taught me the most.
+I build **agentic AI and RAG systems**, with a focus on retrieval quality, evaluation, and reliable Python backends.
+
 
 ## Featured Projects
 
 ### [Discord Documentation Copilot](https://github.com/alihassanwarsi/discord-documentation-copilot)
 
-A RAG system for Discord documentation with hybrid retrieval, reranking, verified citations, semantic verification, confidence scoring, and safe refusal handling.
+A RAG assistant for Discord documentation with **hybrid retrieval, reranking, and citation checks**. Includes semantic verification, confidence scoring, and refusal handling when the retrieved evidence is insufficient.
 
-`Python` `LangChain` `Chroma` `Hugging Face` `BM25` `RRF` `Cohere` `BAAI Reranker` `Groq` `RAGAS` `FastAPI` `Uvicorn` `Streamlit` `Pytest`
+`Python` `LangChain` `Chroma` `FastAPI` `RAGAS`
 
 ### [Permissioned Agent Sandbox](https://github.com/alihassanwarsi/permissioned-agent-sandbox)
 
-A tool-using AI agent with a permission and risk-control layer, where tool calls are allowed, confirmed, escalated, or denied based on roles and risk levels, with human approval and end-to-end tracing.
+A tool-using AI agent that demonstrates **role-based permissions, risk checks, and human approval**. Includes input validation, per-user rate limits, and OpenTelemetry tracing.
 
-`Python` `LangGraph` `FastAPI` `Pydantic` `Groq` `Tavily` `OpenTelemetry` `HTML` `CSS` `JavaScript` `Pytest` `uv` `Docker`
+`Python` `LangGraph` `FastAPI` `OpenTelemetry` `Docker`
 
 ### [FlyRank Social Studio](https://github.com/alihassanwarsi/flyrank-capstone-social-studio)
 
-A backend capstone from my FlyRank AI internship that turns source content into platform-specific social posts using Gemini, supports human review and scheduling, and publishes through real and mock platform adapters.
+Built during my **FlyRank AI internship**: a backend for Gemini-generated social posts, human review, and durable scheduling. Supports real Discord publishing and mock X and LinkedIn adapters.
 
-`Python` `FastAPI` `Uvicorn` `PostgreSQL` `Psycopg` `Pydantic` `Gemini API` `httpx` `BeautifulSoup4` `Docker Compose` `Pytest`
+`Python` `FastAPI` `Gemini API` `PostgreSQL` `Docker Compose`
 
 ## Tech Stack
 
-### AI & Retrieval
+**AI & Retrieval**
 
 <p>
-  <img src="./assets/badges/langchain.png" height="42" alt="LangChain">
-  <img src="./assets/badges/langgraph.png" height="42" alt="LangGraph">
-  <img src="./assets/badges/huggingface.png" height="42" alt="Hugging Face">
-  <img src="./assets/badges/chroma.png" height="42" alt="Chroma">
-  <img src="./assets/badges/qdrant.png" height="42" alt="Qdrant">
-  <img src="./assets/badges/ragas.png" height="42" alt="RAGAS">
+  <img src="./assets/badges/langchain.svg" height="36" alt="LangChain">
+  <img src="./assets/badges/langgraph.svg" height="36" alt="LangGraph">
+  <img src="./assets/badges/chroma.svg" height="36" alt="Chroma">
+  <img src="./assets/badges/ragas.svg" height="36" alt="RAGAS">
 </p>
 
-### ML & Data
+**Backend**
 
 <p>
-  <img src="./assets/badges/numpy.png" height="42" alt="NumPy">
-  <img src="./assets/badges/pandas.png" height="42" alt="Pandas">
-  <img src="./assets/badges/matplotlib.png" height="42" alt="Matplotlib">
-  <img src="./assets/badges/scikitlearn.png" height="42" alt="scikit-learn">
-  <img src="./assets/badges/jupyter.png" height="42" alt="Jupyter">
+  <img src="./assets/badges/python.svg" height="36" alt="Python">
+  <img src="./assets/badges/fastapi.svg" height="36" alt="FastAPI">
+  <img src="./assets/badges/pydantic.svg" height="36" alt="Pydantic">
+  <img src="./assets/badges/postgresql.svg" height="36" alt="PostgreSQL">
 </p>
 
-### Backend & Database
+**Development & Operations**
 
 <p>
-  <img src="./assets/badges/python.png" height="42" alt="Python">
-  <img src="./assets/badges/fastapi.png" height="42" alt="FastAPI">
-  <img src="./assets/badges/pydantic.png" height="42" alt="Pydantic">
-  <img src="./assets/badges/postgresql.png" height="42" alt="PostgreSQL">
-  <img src="./assets/badges/sqlite.png" height="42" alt="SQLite">
-  <img src="./assets/badges/sqlalchemy.png" height="42" alt="SQLAlchemy">
-  <img src="./assets/badges/supabase.png" height="42" alt="Supabase">
+  <img src="./assets/badges/docker.svg" height="36" alt="Docker">
+  <img src="./assets/badges/git.svg" height="36" alt="Git">
+  <img src="./assets/badges/github-actions.svg" height="36" alt="GitHub Actions">
+  <img src="./assets/badges/linux.svg" height="36" alt="Linux">
+  <img src="./assets/badges/uv.svg" height="36" alt="uv">
+  <img src="./assets/badges/pytest.svg" height="36" alt="Pytest">
+  <img src="./assets/badges/opentelemetry.svg" height="36" alt="OpenTelemetry">
 </p>
 
-### DevOps & Tools
+<details>
+<summary>More tools I work with</summary>
+
+**AI Platforms & Services**
 
 <p>
-  <img src="./assets/badges/opentelemetry.png" height="42" alt="OpenTelemetry">
-  <img src="./assets/badges/docker.png" height="42" alt="Docker">
-  <img src="./assets/badges/git.png" height="42" alt="Git">
-  <img src="./assets/badges/github.png" height="42" alt="GitHub">
-  <img src="./assets/badges/githubactions.png" height="42" alt="GitHub Actions">
-  <img src="./assets/badges/vscode.png" height="42" alt="VS Code">
-  <img src="./assets/badges/linux.png" height="42" alt="Linux">
-  <img src="./assets/badges/tavily.png" height="42" alt="Tavily">
-  <img src="./assets/badges/pytest.png" height="42" alt="Pytest">
-  <img src="./assets/badges/streamlit.png" height="42" alt="Streamlit">
+  <img src="./assets/badges/hugging-face.svg" height="36" alt="Hugging Face">
+  <img src="./assets/badges/groq.svg" height="36" alt="Groq">
+  <img src="./assets/badges/cohere.svg" height="36" alt="Cohere">
+  <img src="./assets/badges/tavily.svg" height="36" alt="Tavily">
 </p>
+
+**Backend & Applications**
+
+<p>
+  <img src="./assets/badges/sqlalchemy.svg" height="36" alt="SQLAlchemy">
+  <img src="./assets/badges/sqlite.svg" height="36" alt="SQLite">
+  <img src="./assets/badges/supabase.svg" height="36" alt="Supabase">
+  <img src="./assets/badges/streamlit.svg" height="36" alt="Streamlit">
+</p>
+
+**ML & Data**
+
+<p>
+  <img src="./assets/badges/numpy.svg" height="36" alt="NumPy">
+  <img src="./assets/badges/pandas.svg" height="36" alt="Pandas">
+  <img src="./assets/badges/matplotlib.svg" height="36" alt="Matplotlib">
+  <img src="./assets/badges/scikit-learn.svg" height="36" alt="scikit-learn">
+  <img src="./assets/badges/nltk.svg" height="36" alt="NLTK">
+  <img src="./assets/badges/jupyter.svg" height="36" alt="Jupyter">
+</p>
+
+</details>
 
 ## Beyond the Code
 
-Being a **Microsoft Student Ambassador** has given me the chance to be part of the student tech community, share what I learn, and help others explore AI and technology.
+I enjoy sharing what I learn with the student tech community and helping others explore AI.
 
-When I'm not building AI systems or debugging something that should've worked 20 minutes ago, you'll probably find me **gaming**, exploring new tech, or just chilling with good music.
+When I'm not building AI systems or debugging something that should've worked 20 minutes ago, you'll probably find me **gaming**, exploring new tech, or chilling with good music.
 
 ## Contact Me
 
-Wanna catch up? You can reach me at:
+<p align="center">Want to talk AI, build something, or just say hi?</p>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alihassanwarsi"><img src="./assets/icons/linkedin.png" height="50" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:alihassanwarsi7@gmail.com"><img src="./assets/icons/gmail.png" height="50" alt="Gmail"></a>&nbsp;&nbsp;
-<a href="https://github.com/alihassanwarsi"><img src="./assets/icons/github.png" height="50" alt="GitHub"></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/812261933407272981"><img src="./assets/icons/discord.png" height="50" alt="Discord"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/o8ax0v9xcbgt5tv8a71xcjghn?si=179428f040c949e5"><img src="./assets/icons/spotify.png" height="50" alt="Spotify"></a>
-
-</div>
-
-<br>
-
-<p align="center">
-  <code>git status: still building...</code>
+<p>
+  <a href="https://www.linkedin.com/in/alihassanwarsi"><img src="./assets/icons/linkedin.svg" height="42" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:alihassanwarsi7@gmail.com"><img src="./assets/icons/mail.svg" height="42" alt="Email"></a>&nbsp;
+  <a href="https://wa.me/923108939595">
+  <img src="./assets/icons/whatsapp.svg" height="42" alt="WhatsApp"></a>&nbsp;
 </p>
+
+<p>Thanks for stopping by. Have a great day!</p>
+
+<p>
+  <img src="./assets/gifs/bottom.svg" width="100%" alt="">
+</p>
+
