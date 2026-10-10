@@ -1,0 +1,24 @@
+<svg width="854" height="120" viewBox="0 0 854 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- wave 1 -->
+  <path fill="#141d2b" opacity="0.5">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="0s"
+      keyTimes="0;0.333;0.667;1"
+      values="M0 50Q 213 80 427 55T 854 65L 854 120 L 0 120Z;
+              M0 65Q 213 45 427 70T 854 50L 854 120 L 0 120Z;
+              M0 45Q 213 70 427 45T 854 70L 854 120 L 0 120Z;
+              M0 50Q 213 80 427 55T 854 65L 854 120 L 0 120Z"/>
+  </path>
+
+  <!-- wave 2 -->
+  <path fill="#141d2b" opacity="0.5">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="-10s"
+      keyTimes="0;0.333;0.667;1"
+      values="M0 70Q 213 55 427 80T 854 60L 854 120 L 0 120Z;
+              M0 60Q 213 85 427 65T 854 80L 854 120 L 0 120Z;
+              M0 80Q 213 60 427 75T 854 55L 854 120 L 0 120Z;
+              M0 70Q 213 55 427 80T 854 60L 854 120 L 0 120Z"/>
+  </path>
+
+  <!-- solid base -->
+  <rect x="0" y="95" width="854" height="25" fill="#141d2b"/>
+</svg>
