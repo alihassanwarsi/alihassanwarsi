@@ -1,22 +1,21 @@
-<div align="center">
 
-<p>
-  <img src="./assets/header/title.svg" width="260" height="52" align="middle" alt="Hey, I'm Ali">
-  <img src="./assets/gifs/greet.gif" width="40" height="40" align="middle" alt="Waving hand">
-</p>
-
-<p><strong>A little curiosity. A lot of Python.</strong></p>
-
+<div id="toc">
+  <ul align="center">
+    <summary>
+      <h1>Hey, I'm Ali&nbsp;<img src="./assets/gifs/greet.gif" width="34" height="33" align="top" alt="Waving hand"></h1>
+      <br>
+      <strong>A little curiosity. A lot of Python.</strong>
+    </summary>
+  </ul>
 </div>
 
 ## About Me
 
-<img align="right" src="./assets/gifs/hollow_knight.gif" width="100" alt="Hollow Knight pixel animation">
+<img align="right" hspace="44" src="./assets/gifs/hollow_knight.gif" width="85" alt="Hollow Knight pixel animation">
 
-I'm an AI undergrad and **Microsoft Student Ambassador** who enjoys turning ideas into working projects.
+I'm an AI undergrad and an **Associate Microsoft Student Ambassador** who enjoys turning ideas into working projects.
 
-I build **agentic AI and RAG systems**, with a focus on retrieval quality, evaluation, and reliable Python backends.
-
+I build **Intelligent Agentic and RAG systems**, with a focus on retrieval quality, evaluation, and reliable Python backends.
 
 ## Featured Projects
 
@@ -43,78 +42,63 @@ Built during my **FlyRank AI internship**: a backend for Gemini-generated social
 **AI & Retrieval**
 
 <p>
-  <img src="./assets/badges/langchain.svg" height="36" alt="LangChain">
-  <img src="./assets/badges/langgraph.svg" height="36" alt="LangGraph">
-  <img src="./assets/badges/chroma.svg" height="36" alt="Chroma">
-  <img src="./assets/badges/ragas.svg" height="36" alt="RAGAS">
+  <img src="./assets/badges/langchain.svg" height="50" alt="LangChain">
+  <img src="./assets/badges/langgraph.svg" height="50" alt="LangGraph">
+  <img src="./assets/badges/chroma.svg" height="50" alt="Chroma">
+  <img src="./assets/badges/hugging-face.svg" height="50" alt="Hugging Face">
+  <img src="./assets/badges/groq.svg" height="50" alt="Groq">
+  <img src="./assets/badges/cohere.svg" height="50" alt="Cohere">
+  <img src="./assets/badges/tavily.svg" height="50" alt="Tavily">
+  <img src="./assets/badges/ragas.svg" height="50" alt="RAGAS">
 </p>
 
-**Backend**
+**Backend & Apps**
 
 <p>
-  <img src="./assets/badges/python.svg" height="36" alt="Python">
-  <img src="./assets/badges/fastapi.svg" height="36" alt="FastAPI">
-  <img src="./assets/badges/pydantic.svg" height="36" alt="Pydantic">
-  <img src="./assets/badges/postgresql.svg" height="36" alt="PostgreSQL">
-</p>
-
-**Development & Operations**
-
-<p>
-  <img src="./assets/badges/docker.svg" height="36" alt="Docker">
-  <img src="./assets/badges/git.svg" height="36" alt="Git">
-  <img src="./assets/badges/github-actions.svg" height="36" alt="GitHub Actions">
-  <img src="./assets/badges/linux.svg" height="36" alt="Linux">
-  <img src="./assets/badges/uv.svg" height="36" alt="uv">
-  <img src="./assets/badges/pytest.svg" height="36" alt="Pytest">
-  <img src="./assets/badges/opentelemetry.svg" height="36" alt="OpenTelemetry">
-</p>
-
-<details>
-<summary>More tools I work with</summary>
-
-**AI Platforms & Services**
-
-<p>
-  <img src="./assets/badges/hugging-face.svg" height="36" alt="Hugging Face">
-  <img src="./assets/badges/groq.svg" height="36" alt="Groq">
-  <img src="./assets/badges/cohere.svg" height="36" alt="Cohere">
-  <img src="./assets/badges/tavily.svg" height="36" alt="Tavily">
-</p>
-
-**Backend & Applications**
-
-<p>
-  <img src="./assets/badges/sqlalchemy.svg" height="36" alt="SQLAlchemy">
-  <img src="./assets/badges/sqlite.svg" height="36" alt="SQLite">
-  <img src="./assets/badges/supabase.svg" height="36" alt="Supabase">
-  <img src="./assets/badges/streamlit.svg" height="36" alt="Streamlit">
+  <img src="./assets/badges/python.svg" height="50" alt="Python">
+  <img src="./assets/badges/fastapi.svg" height="50" alt="FastAPI">
+  <img src="./assets/badges/pydantic.svg" height="50" alt="Pydantic">
+  <img src="./assets/badges/postgresql.svg" height="50" alt="PostgreSQL">
+  <img src="./assets/badges/sqlalchemy.svg" height="50" alt="SQLAlchemy">
+  <img src="./assets/badges/sqlite.svg" height="50" alt="SQLite">
+  <img src="./assets/badges/supabase.svg" height="50" alt="Supabase">
+  <img src="./assets/badges/streamlit.svg" height="50" alt="Streamlit">
 </p>
 
 **ML & Data**
 
 <p>
-  <img src="./assets/badges/numpy.svg" height="36" alt="NumPy">
-  <img src="./assets/badges/pandas.svg" height="36" alt="Pandas">
-  <img src="./assets/badges/matplotlib.svg" height="36" alt="Matplotlib">
-  <img src="./assets/badges/scikit-learn.svg" height="36" alt="scikit-learn">
-  <img src="./assets/badges/nltk.svg" height="36" alt="NLTK">
-  <img src="./assets/badges/jupyter.svg" height="36" alt="Jupyter">
+  <img src="./assets/badges/numpy.svg" height="50" alt="NumPy">
+  <img src="./assets/badges/pandas.svg" height="50" alt="Pandas">
+  <img src="./assets/badges/matplotlib.svg" height="50" alt="Matplotlib">
+  <img src="./assets/badges/scikit-learn.svg" height="50" alt="scikit-learn">
+  <img src="./assets/badges/nltk.svg" height="50" alt="NLTK">
+  <img src="./assets/badges/jupyter.svg" height="50" alt="Jupyter">
 </p>
 
-</details>
+**DevOps & Tools**
+
+<p>
+  <img src="./assets/badges/docker.svg" height="50" alt="Docker">
+  <img src="./assets/badges/git.svg" height="50" alt="Git">
+  <img src="./assets/badges/github-actions.svg" height="50" alt="GitHub Actions">
+  <img src="./assets/badges/linux.svg" height="50" alt="Linux">
+  <img src="./assets/badges/uv.svg" height="50" alt="uv">
+  <img src="./assets/badges/pytest.svg" height="50" alt="Pytest">
+  <img src="./assets/badges/opentelemetry.svg" height="50" alt="OpenTelemetry">
+</p>
 
 ## Beyond the Code
 
-I enjoy sharing what I learn with the student tech community and helping others explore AI.
+As part of the Microsoft Student Ambassadors program, I enjoy hosting tech sessions, sharing what I learn, and helping fellow students explore AI.
 
-When I'm not building AI systems or debugging something that should've worked 20 minutes ago, you'll probably find me **gaming**, exploring new tech, or chilling with good music.
+When I'm not building AI systems or debugging something that should've worked 20 minutes ago, you'll probably find me gaming, exploring new stuff or chilling with music.
 
+  
 ## Contact Me
 
-<p align="center">Want to talk AI, build something, or just say hi?</p>
-
 <div align="center">
+<p align="center">Want to talk AI, build something, or just say hi?</p>
 
 <p>
   <a href="https://www.linkedin.com/in/alihassanwarsi"><img src="./assets/icons/linkedin.svg" height="42" alt="LinkedIn"></a>&nbsp;
@@ -129,3 +113,4 @@ When I'm not building AI systems or debugging something that should've worked 20
   <img src="./assets/gifs/bottom.svg" width="100%" alt="">
 </p>
 
+</div>
