@@ -11,7 +11,7 @@
 
 ## About Me
 
-<img align="right" hspace="44" src="./assets/gifs/hollow_knight.gif" width="85" alt="Hollow Knight pixel animation">
+<img align="right" hspace="24" src="./assets/gifs/hollow_knight.gif" width="85" alt="Hollow Knight pixel animation">
 
 I'm an AI undergrad and an **Associate Microsoft Student Ambassador** who enjoys turning ideas into working projects.
 
