@@ -19,11 +19,11 @@ I build **Intelligent Agentic and RAG systems**, with a focus on retrieval quali
 
 ## Featured Projects
 
-### [Discord Documentation Copilot](https://github.com/alihassanwarsi/discord-documentation-copilot)
+### [Hybridix](https://github.com/alihassanwarsi/hybridix)
 
-A RAG assistant for Discord documentation with **hybrid retrieval, reranking, and citation checks**. Includes semantic verification, confidence scoring, and refusal handling when the retrieved evidence is insufficient.
+A modular, CLI-first documentation RAG engine supporting **Markdown and MDX**. Features dense + sparse hybrid retrieval with Reciprocal Rank Fusion, Cross-Encoder reranking, and grounded generation with citation resolution and evidence verification.
 
-`Python` `LangChain` `Chroma` `FastAPI` `RAGAS`
+`Python` `ChromaDB` `BM25S` `Sentence Transformers` `Groq` `Pydantic` `RAGAS`
 
 ### [Permissioned Agent Sandbox](https://github.com/alihassanwarsi/permissioned-agent-sandbox)
 
