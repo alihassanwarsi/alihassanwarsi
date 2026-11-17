@@ -31,11 +31,12 @@ A tool-using AI agent that demonstrates **role-based permissions, risk checks, a
 
 `Python` `LangGraph` `FastAPI` `OpenTelemetry` `Docker`
 
-### [FlyRank Social Studio](https://github.com/alihassanwarsi/flyrank-capstone-social-studio)
 
-Built during my **FlyRank AI internship**: a backend for Gemini-generated social posts, human review, and durable scheduling. Supports real Discord publishing and mock X and LinkedIn adapters.
+### [Filmantic](https://github.com/alihassanwarsi/filmantic)
 
-`Python` `FastAPI` `Gemini API` `PostgreSQL` `Docker Compose`
+A hybrid movie recommendation system combining **TF-IDF and semantic embeddings** using Reciprocal Rank Fusion. Includes movie search, genre and keyword discovery, and a custom web interface backed by a Flask API.
+
+`Python` `Flask` `Scikit-learn` `Sentence Transformers` `spaCy` `TMDB API`
 
 ## Tech Stack
 
